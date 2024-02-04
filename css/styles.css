@@ -384,6 +384,7 @@ overflow: hidden;
 }
 
 .sellers-cover-text {
+  position: absolute;
   font-size: 16px;
   color: #F4F4FD;
   line-height: 1.5;
